@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/room-me/static/css/main.5658ddd2.chunk.css",
+    "main.js": "/room-me/static/js/main.46b92b13.chunk.js",
+    "main.js.map": "/room-me/static/js/main.46b92b13.chunk.js.map",
+    "runtime~main.js": "/room-me/static/js/runtime~main.a5c31351.js",
+    "runtime~main.js.map": "/room-me/static/js/runtime~main.a5c31351.js.map",
+    "static/js/2.65ce7364.chunk.js": "/room-me/static/js/2.65ce7364.chunk.js",
+    "static/js/2.65ce7364.chunk.js.map": "/room-me/static/js/2.65ce7364.chunk.js.map",
+    "index.html": "/room-me/index.html",
+    "precache-manifest.08d39e6700aa5c916b402666ecd81ce5.js": "/room-me/precache-manifest.08d39e6700aa5c916b402666ecd81ce5.js",
+    "service-worker.js": "/room-me/service-worker.js",
+    "static/css/main.5658ddd2.chunk.css.map": "/room-me/static/css/main.5658ddd2.chunk.css.map"
+  }
+}
