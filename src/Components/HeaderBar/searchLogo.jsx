@@ -1,5 +1,5 @@
 import React from "react";
-import "./searchLogo.css";
+import "./SearchLogo.css";
 
 let SearchLogo = (props) => {
     return (

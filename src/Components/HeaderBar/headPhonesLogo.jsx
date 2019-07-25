@@ -1,5 +1,5 @@
 import React from "react";
-import "./headPhonesLogo.css";
+import "./HeadphonesLogo.css";
 
 let HeadPhonesLogo = props => {
   return (

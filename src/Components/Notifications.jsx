@@ -1,7 +1,7 @@
 import React from "react";
 import LogoGrid from "./LogoGrid";
 import Avatar from "./Avatar";
-import "./notification.css";
+import "./Notification.css";
 
 let Notifications = props => {
   return (

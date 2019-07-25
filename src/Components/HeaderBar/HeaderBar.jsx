@@ -1,7 +1,7 @@
 import React from "react";
 import "./HeaderBar.css";
-import HeadPhonesLogo from "./headPhonesLogo";
-import SearchLogo from "./searchLogo";
+import HeadphonesLogo from "./HeadphonesLogo";
+import SearchLogo from "./SearchLogo";
 import LogoGrid from "../LogoGrid";
 import Notifications from "../Notifications";
 
@@ -21,7 +21,7 @@ let HeaderBar = (props) => {
           <h1 className="room-name">{props.roomName}</h1>
           <span className="icons-right">
             <SearchLogo />
-            <HeadPhonesLogo />
+            <HeadphonesLogo />
           </span>
         </div>
         <div
